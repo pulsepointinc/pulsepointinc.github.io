@@ -1,1 +1,1 @@
-ORGCHART - https://pulsepointinc.github.io
+https://pulsepointinc.github.io/orgchart
